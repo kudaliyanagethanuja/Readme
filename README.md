@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Full-Stack Technologies**
 
-💬 Ask me about **React,Django,Firebase, MySQL... or anything [here](https://stackoverflow.com/users/22792152/sathsara-thanuja?tab=profile)**
+💬 Ask me about **React, Django,Firebase, MySQL... or anything [here](https://stackoverflow.com/users/22792152/sathsara-thanuja?tab=profile)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -39,7 +39,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,flask,bootstrap,,django,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,flask,django,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=python,firebase,mongodb,java,mysql,SQL" /><br>
 </div>
 
