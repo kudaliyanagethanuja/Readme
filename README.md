@@ -6,15 +6,15 @@
 </h1>
 
 <h1 align = "center">
-        <img src = "https://readme-typing-svg.herokuapp.com?width=500&lines=Welcome+%E2%9D%A4%EF%B8%8F+to+Sathsara's+gitHub+pofile....;Still+%F0%9F%98%B6++Software+Engineering+Undergraduate....;I'm+Interested+%F0%9F%A5%B3+in+Machine+Learning+%26+...;Try+%F0%9F%98%8E+to+learn+New+technologies....">
+        <img src = "https://readme-typing-svg.herokuapp.com?width=500&lines=Welcome+%E2%9D%A4%EF%B8%8F+to+Sathsara's+gitHub+pofile....;Still+%F0%9F%98%B6++Software+Engineering+Undergraduate....;I'm+Interested+%F0%9F%A5%B3+in+Machine+Learning+%26+;Try+%F0%9F%98%8E+to+learn+New+technologies....">
 </h1>
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working At **JMC Jayasekera Management Center**
+ 🔭 I’m currently working At **Own Projects**
  
- 🌱 I’m currently learning **Full-Stack Technologies**
+ 🌱 I’m currently learning **Back-End Technologies**
 
 💬 Ask me about **Django,Firebase, MySQL... or anything [here](https://stackoverflow.com/users/22792152/sathsara-thanuja?tab=profile)**
 
